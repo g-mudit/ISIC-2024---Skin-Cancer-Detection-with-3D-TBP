@@ -10,7 +10,7 @@ The dataset consists of diagnostically labelled images with additional metadata.
 
 # Objective 
 
-Differentiating benign from malignant cases. For each image (isic_id) you are assigning the probability (target) ranging [0, 1] that the case is malignant.
+Differentiate benign from malignant cases. For each image (isic_id) assign the probability (target) ranging [0, 1] that the case is malignant.
 
 # Evaluation
 
